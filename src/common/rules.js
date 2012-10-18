@@ -120,7 +120,8 @@ YSLOW.registerRule({
             'apis.google.com', //Google's API Hosting
             '.akamaihd.net', //Akamai - Facebook uses this for SSL assets
             '.rackcdn.com', //Generic RackSpace CloudFiles CDN
-            'cdn.familysearch.org'
+            'cdn.familysearch.org',
+            'ldscdn.org'
         ],
         // array of regexps that will be treated as exception.
         exceptions: [
